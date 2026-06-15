@@ -6,7 +6,7 @@ The objective of this task was to transform raw transactional data into meaningf
 
 ---
 
-# 🔧 1️⃣ Data Loading & Preprocessing (Working Process)
+##🔧 1️⃣ Data Loading & Preprocessing (Working Process)
 
 ## ✔ Loaded Multiple Datasets
 - Imported datasets using **Python and Pandas**
