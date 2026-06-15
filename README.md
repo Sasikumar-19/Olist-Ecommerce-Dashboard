@@ -1,4 +1,4 @@
-# 🟦 Task 3 – Deep Dive Analysis & Interactive Dashboard  
+##  Deep Dive Analysis & Interactive Dashboard  
  
 This repository contains the complete workflow for **Task 3**, where I performed a **deep-dive analysis on the Olist Brazilian E-Commerce dataset**, created business KPIs, and developed an **interactive Power BI dashboard** to visualize insights.
 
