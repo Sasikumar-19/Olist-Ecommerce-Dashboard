@@ -102,37 +102,9 @@ Detailed analysis was performed to uncover patterns in sales and customer behavi
 
 ---
 
-# 📈 4️⃣ Interactive Power BI Dashboard
+## 📊 Dashboard Preview
+<img width="1301" height="733" alt="image" src="https://github.com/user-attachments/assets/cd69e070-ff9b-4326-9848-6408df255f3e" />
 
-An interactive **Power BI dashboard** was created to visualize insights.
-
-
-### ⭐ KPI Cards
-- Total Revenue
-- Total Orders
-- Total Customers
-- Average Order Value
-- Average Review Score
-
-### ⭐ Visualizations
-
-- Revenue Trend Line Chart
-- Product Category Sales Bar Chart
-- Payment Method Donut Chart
-- Delivery Time vs Review Score Scatter Plot
-
----
-
-### ⭐ Interactive Filters
-
-The dashboard includes slicers for:
-
-- Year
-- Month
-- Product Category
-- Customer State
-
-These filters allow users to **interactively explore the data**.
 
 ---
 
