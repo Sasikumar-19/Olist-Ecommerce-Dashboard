@@ -105,7 +105,6 @@ Detailed analysis was performed to uncover patterns in sales and customer behavi
 # 📈 4️⃣ Interactive Power BI Dashboard
 
 An interactive **Power BI dashboard** was created to visualize insights.
- <img width="1162" height="653" alt="image" src="C:\Users\User\OneDrive\Desktop\Internships\DA Intern @ ApexPlanet\Task-3\Screenshot 2026-07-20 013829.png" />
 
 
 ### ⭐ KPI Cards
