@@ -6,6 +6,11 @@ The objective of this task was to transform raw transactional data into meaningf
 
 ---
 
+## 📊 Dashboard Preview
+<img width="1301" height="733" alt="image" src="https://github.com/user-attachments/assets/cd69e070-ff9b-4326-9848-6408df255f3e" />
+
+---
+
 ## 🔧 1️⃣ Data Loading & Preprocessing (Working Process)
 
 ## ✔ Loaded Multiple Datasets
@@ -99,12 +104,6 @@ Detailed analysis was performed to uncover patterns in sales and customer behavi
 - Calculated delivery time
 - Compared delivery performance with review scores
 - Observed impact of logistics on customer satisfaction
-
----
-
-## 📊 Dashboard Preview
-<img width="1301" height="733" alt="image" src="https://github.com/user-attachments/assets/cd69e070-ff9b-4326-9848-6408df255f3e" />
-
 
 ---
 
